@@ -1,0 +1,6 @@
+Print Hello, World. on the first line, and the contents of  on the second line.
+
+input_string = input()
+
+# Print a string literal saying "Hello, World." to stdout.
+print('Hello, World.')
